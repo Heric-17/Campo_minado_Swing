@@ -1,4 +1,4 @@
-package com.hlopes.cm.models;
+package models;
 
 import java.util.ArrayList;
 import java.util.HashSet;
