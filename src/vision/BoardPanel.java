@@ -1,4 +1,4 @@
-package com.hlopes.cm.vision;
+package vision;
 
 import java.awt.GridLayout;
 
@@ -6,7 +6,7 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.SwingUtilities;
 
-import com.hlopes.cm.models.Board;
+import models.Board;
 
 @SuppressWarnings("serial")
 public class BoardPanel extends JPanel {
