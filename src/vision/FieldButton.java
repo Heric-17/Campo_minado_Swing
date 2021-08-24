@@ -1,4 +1,4 @@
-package com.hlopes.cm.vision;
+package vision;
 
 import java.awt.Color;
 import java.awt.event.MouseEvent;
@@ -8,9 +8,9 @@ import javax.swing.BorderFactory;
 import javax.swing.JButton;
 import javax.swing.SwingUtilities;
 
-import com.hlopes.cm.models.Field;
-import com.hlopes.cm.models.FieldEvent;
-import com.hlopes.cm.models.FieldObserver;
+import models.Field;
+import models.FieldEvent;
+import models.FieldObserver;
 
 @SuppressWarnings("serial")
 public class FieldButton extends JButton implements FieldObserver, MouseListener {
