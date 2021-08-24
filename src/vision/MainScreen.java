@@ -1,8 +1,8 @@
-package com.hlopes.cm.vision;
+package vision;
 
 import javax.swing.JFrame;
 
-import com.hlopes.cm.models.Board;
+import models.Board;
 
 @SuppressWarnings("serial")
 public class MainScreen extends JFrame{
