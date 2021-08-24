@@ -1,4 +1,4 @@
-package com.hlopes.cm.models;
+package models;
 
 public enum FieldEvent {
 
